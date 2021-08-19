@@ -16,5 +16,7 @@
         "Decision making",
         "Mouse-racking",
         "Resting state"
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003766.v1.0.0",
+    "License": "CC0"
 }
