@@ -1,0 +1,22 @@
+{
+    "Name": "HD-EEG task with mouse tracking",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Kun Chen",
+        "Ruien Wang",
+        "Jiamin Huang",
+        "Fei Gao",
+        "Zhen Yuan",
+        "Yanyan Qi",
+        "Haiyan Wu"
+    ],
+    "KeyWords": [
+        "Electroencephalography",
+        "Decision making",
+        "Mouse-racking",
+        "Resting state"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds003766.v1.1.0",
+    "License": "CC0"
+}
