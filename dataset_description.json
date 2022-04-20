@@ -1,5 +1,5 @@
 {
-    "Name": "HD-EEG task with mouse tracking",
+    "Name": "A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking",
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
     "Authors": [
@@ -22,5 +22,6 @@
         {
             "URL": "file://./sourcedata/rawdata"
         }
-    ]
+    ],
+    "License": "CC0"
 }
