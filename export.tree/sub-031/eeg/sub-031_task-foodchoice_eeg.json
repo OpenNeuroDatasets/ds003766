@@ -1,0 +1,18 @@
+{
+    "TaskName": "foodchoice",
+    "Manufacturer": "Electrical Geodesic Incorporated",
+    "PowerLineFrequency": 50,
+    "SamplingFrequency": 1000.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 1729.999,
+    "RecordingType": "continuous",
+    "EEGReference": "E129",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "n/a",
+    "EEGChannelCount": 129,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0
+}
