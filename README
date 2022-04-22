@@ -1,5 +1,5 @@
 
-## Description
+# Description
 
 This dataset was collected in 2020, which combines high-density Electroencephalography (HD-EEG, 128 channels) and mouse-tracking intended as a resource for examining the dynamic decision process of semantics and preference choices in the human brain. The dataset includes high-density resting-state and task-related (food preference choices and semantic judgments) EEG acquired from 31 individuals (ages: 18–33).
 
@@ -7,7 +7,7 @@ This dataset was collected in 2020, which combines high-density Electroencephalo
 
 The EEG data were acquired using a 128-channel cap based on the standard 10/20 System with Electrical Geodesics Inc (EGI, Eugene, Oregon) system. During recording, sampling rate was 1000Hz, and the E129 (Cz) electrode was used as reference. Electrode impedances were kept below 50kohm for each electrode during the experiment.
 
-## Structure
+## Main files
 
 **`sub-*`**: EEG (`.set`) and behavior data with BIDS format.
 
@@ -15,7 +15,7 @@ The EEG data were acquired using a 128-channel cap based on the standard 10/20 S
 
 **`sourcedata/psychopy`**: Stimuli and PsychoPy scripts for presentation.
 
-**`derivatives`**: Preprocessed continuous EEG data (Easy to set different epoch time windows for further analysis).
+**`derivatives/eeglab-preproc`**: Preprocessed continuous EEG data with EEGLAB (Easy to set different epoch time windows for further analysis).
 
 ## Others
 
