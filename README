@@ -11,11 +11,11 @@ The EEG data were acquired using a 128-channel cap based on the standard 10/20 S
 
 **`sub-*`**: EEG (`.set`) and behavior data with BIDS format.
 
-`sourcedata/rawdata`: Raw `.mff` EGI data with subject information desensitization.
+**`sourcedata/rawdata`**: Raw `.mff` EGI data with subject information desensitization.
 
-`sourcedata/psychopy`: Stimuli and PsychoPy scripts for presentation.
+**`sourcedata/psychopy`**: Stimuli and PsychoPy scripts for presentation.
 
-`derivatives`: Preprocessed continuous EEG data (Easy to set different epoch time windows for further analysis).
+**`derivatives`**: Preprocessed continuous EEG data (Easy to set different epoch time windows for further analysis).
 
 ## Others
 
