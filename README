@@ -9,7 +9,7 @@ The EEG data were acquired using a 128-channel cap based on the standard 10/20 S
 
 ## Structure
 
-`sub-*`: EEG (`.set`) and behavior data with BIDS format.
+**`sub-*`**: EEG (`.set`) and behavior data with BIDS format.
 
 `sourcedata/rawdata`: Raw `.mff` EGI data with subject information desensitization.
 
