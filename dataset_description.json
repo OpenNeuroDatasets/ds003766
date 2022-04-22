@@ -17,7 +17,7 @@
         "Mouse-racking",
         "Resting state"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds003766.v2.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds003766.v2.0.2",
     "SourceDatasets": [
         {
             "URL": "file://./sourcedata/rawdata"
