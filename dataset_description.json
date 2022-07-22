@@ -23,5 +23,8 @@
             "URL": "file://./sourcedata/rawdata"
         }
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        "Chen, K., Wang, R., Huang, J., Gao, F., Yuan, Z., Qi, Y., & Wu, H. (2022). A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking. Scientific Data, 9(1), 416. https://doi.org/10.1038/s41597-022-01538-5"
+    ]
 }
