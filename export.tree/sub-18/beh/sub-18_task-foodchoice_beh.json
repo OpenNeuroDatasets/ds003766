@@ -1,0 +1,34 @@
+{
+    "trialIndex": {
+        "Description": "Index of the current trial, used to align with EEG data when some EEG trigger lost."
+    },
+    "left_option": {
+        "Description": "Clickable option on the left side on the screen."
+    },
+    "right_option": {
+        "Description": "Clickable option on the right side on the screen."
+    },
+    "response": {
+        "Description": "The side which the participant choose.",
+        "Level": {
+            "left": "The participant choose the left_optioin.",
+            "right": "The participant choose the right_optioin."
+        }
+    },
+    "response_time": {
+        "Description": "Response time measured in seconds.",
+        "Units": "second"
+    },
+    "xTrajectory": {
+        "Description": "The x coordinate of the mouse trajectory over time.",
+        "Units": "pixel"
+    },
+    "yTrajectory": {
+        "Description": "The y coordinate of the mouse trajectory over time.",
+        "Units": "pixel"
+    },
+    "tTrajectory": {
+        "Description": "The time point which corrresdponds to the (x, y) coordinate series.",
+        "Units": "second"
+    }
+}
