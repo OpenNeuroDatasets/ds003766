@@ -1,0 +1,21 @@
+{
+    "TaskName": "foodchoice",
+    "Manufacturer": "Electrical Geodesic Incorporated",
+    "PowerLineFrequency": 50.0,
+    "SamplingFrequency": 1000.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 1398.56,
+    "RecordingType": "discontinuous",
+    "EEGReference": "E129 (Cz)",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "n/a",
+    "EEGChannelCount": 129,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "ManufacturersModelName": "NetAmps 400",
+    "InstitutionName": "University of Macau",
+    "InstitutionAddress": "Macau, China"
+}
